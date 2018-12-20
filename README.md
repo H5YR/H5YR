@@ -34,4 +34,4 @@ If you have spare time and would like to help out with this project, please put 
 | Nik           | C# / Umbraco       | @hotchillicode    |
 | Chriztian     | HTML / CSS         | @greystate        |
 | Matt W        | C# / Umbraco / JS  | @waltza86         |
-|               |                    |                   |
+| Paul Seal     | C# / Umbraco       | @CodeSharePaul    |
