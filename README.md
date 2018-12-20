@@ -16,7 +16,7 @@ https://positivesharing.com/2012/01/h5yr-and-h5is-find-out-how-these-two-cryptic
 
 ## What is this Project?
 
-In Decemeber 2018 Douglas Robar (Umbraco Man) hung up his Umbraco Cape and started a new adventure. He put out a call on Twitter to see if anyone would take on the task of looking after the site H5YR.com. Owain answered the call and is now the keeper of the site. 
+In Decemeber 2018 Douglas Robar (Umbraco Man) hung up his Umbraco Cape and started a new adventure. He put out a call on Twitter to see if anyone would take on the task of looking after the site H5YR.com. I, Owain, answered the call and am now the keeper of the site. 
 
 The domain H5IS.com is also now going to be part of this proejct - Thanks to Harald Ulriksen for transferring the domain to this project.
 
@@ -31,6 +31,7 @@ If you have spare time and would like to help out with this project, please put 
 | Name  | Skill         | Contact details |
 |-------|---------------|-----------------|
 | Owain | C# / Umbraco  | @scottishcoder  |
+| Nik   | C# / Umbraco  | @hotchillicode  |
 |       |               |                 |
 
 
