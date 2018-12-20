@@ -28,9 +28,10 @@ Initially, the plan is to just convert the old site from Umbraco 6 to Umbraco 7 
 
 If you have spare time and would like to help out with this project, please put your name below with what skills you can offer. 
 
-| Name  | Skill         | Contact details |
-|-------|---------------|-----------------|
-| Owain | C# / Umbraco  | @scottishcoder  |
-|       |               |                 |
+| Name          | Skill              | Contact details   |
+|---------------|--------------------|-------------------|
+| Owain         | C# / Umbraco       | @scottishcoder    |
+| Chriztian     | HTML, CSS          | @greystate        |
+|               |                    |                   |
 
 
