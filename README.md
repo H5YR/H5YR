@@ -32,6 +32,6 @@ If you have spare time and would like to help out with this project, please put 
 |---------------|--------------------|-------------------|
 | Owain         | C# / Umbraco       | @scottishcoder    |
 | Nik           | C# / Umbraco       | @hotchillicode    |
-| Chriztian     | HTML, CSS          | @greystate        |
+| Chriztian     | HTML / CSS         | @greystate        |
+| Matt W        | C# / Umbraco / JS  | @waltza86         |
 |               |                    |                   |
-
