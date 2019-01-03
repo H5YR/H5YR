@@ -35,3 +35,7 @@ If you have spare time and would like to help out with this project, please put 
 | Chriztian     | HTML / CSS         | @greystate        |
 | Matt W        | C# / Umbraco / JS  | @waltza86         |
 | Paul Seal     | C# / Umbraco       | @CodeSharePaul    |
+
+## Where to chat about the project?
+Head over to the dedicated slack channel http://h5yr.slack.com
+
