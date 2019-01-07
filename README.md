@@ -36,6 +36,7 @@ If you have spare time and would like to help out with this project, please put 
 | Paul Seal     | C# / Umbraco                | @CodeSharePaul    |
 | Callum Whyte  | C# / Umbraco / Architecture | @callumbwhyte     |
 | Ian Houghton  | C# / Umbraco                | @redmorello       |
+| Lew Slade     | Designer                    | @LewSlade         |
 
 ## Where to chat about the project?
 Head over to the dedicated slack channel https://join.slack.com/t/h5yr/shared_invite/enQtNTE1ODM1NTc0Nzg5LTM5MGMwMDhlZWJiM2IzZTExYzg3MGVmYzNlZGE0NGFlNDgwYjU1ZThmNmEzMjViZjU2M2M4Mzg4YjA4ZDI4YmI
