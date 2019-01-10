@@ -42,5 +42,13 @@ If you have spare time and would like to help out with this project, please put 
 ## Where to chat about the project?
 Head over to the dedicated slack channel https://join.slack.com/t/h5yr/shared_invite/enQtNTE1ODM1NTc0Nzg5LTM5MGMwMDhlZWJiM2IzZTExYzg3MGVmYzNlZGE0NGFlNDgwYjU1ZThmNmEzMjViZjU2M2M4Mzg4YjA4ZDI4YmI
 
+## Where can I log an issue / an idea for the project?
+
+https://github.com/H5YR/H5YR/issues
+
+## Where can I get a copy of the website?
+
+https://github.com/H5YR/website
+
 ## Social Media
 Follow the project on https://www.twitter.com/h5yr
