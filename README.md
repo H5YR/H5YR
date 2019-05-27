@@ -21,25 +21,7 @@ The domain H5IS.com is also now going to be part of this project - Thanks to Har
 
 The plan is to make this a community project but it's not just for Umbracians. It's for everyone. H5YR and H5IS are not just Umbraco terms, although the Umbraco Community have adopted them. 
 
-## What is needed / planned?
 
-Initially, the plan is to just convert the old site from Umbraco 6 to Umbraco 7 and keep the original functionality - which is to scan Twitter for all #h5yr and #h5is tags and display them on the site. 
-
-If you have spare time and would like to help out with this project, please put your name below with what skills you can offer. 
-
-| Name          | Skill                       | Contact details   |
-|---------------|-----------------------------|-------------------|
-| Owain         | C# / Umbraco                | @scottishcoder    |
-| Nik           | C# / Umbraco                | @hotchillicode    |
-| Chriztian     | HTML / CSS                  | @greystate        |
-| Matt W        | C# / Umbraco / JS           | @waltza86         |
-| Paul Seal     | C# / Umbraco                | @CodeSharePaul    |
-| Callum Whyte  | C# / Umbraco / Architecture | @callumbwhyte     |
-| Ian Houghton  | C# / Umbraco                | @redmorello       |
-| Lew Slade     | Designer                    | @LewSlade         |
-| Poornima Nayar| C# / Umbraco                | @poornimanayar    |
-| Sumesh KP     | C# / Umbraco                | @sumeshkp18       |
-| Louis Jr      | C# / Umbraco / Frontend Dev | @louisjrdotcom    |
 ## Where to chat about the project?
 Head over to the dedicated slack channel https://join.slack.com/t/h5yr/shared_invite/enQtNTE1ODM1NTc0Nzg5LTM5MGMwMDhlZWJiM2IzZTExYzg3MGVmYzNlZGE0NGFlNDgwYjU1ZThmNmEzMjViZjU2M2M4Mzg4YjA4ZDI4YmI
 
@@ -49,7 +31,7 @@ https://github.com/H5YR/H5YR/issues
 
 ## Where can I get a copy of the website?
 
-https://github.com/H5YR/website
+You'll need to join the slack channel and drop Owain a message, he can then add you to the project. 
 
 ## Social Media
 Follow the project on https://www.twitter.com/h5yr
